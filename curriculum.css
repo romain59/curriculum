@@ -1,0 +1,93 @@
+#Principal {
+    margin: 80%;
+
+}
+
+#image {
+    background-image: url("https://sg.fiverrcdn.com/photos/116693845/original/d556d284e267e8ea55d09783159a3e5c51361239.jpg?1536090737");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    width: 150px;
+    height: 150px;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    float: right;
+    margin-right: 5%;
+    margin-top: 6%;
+}
+
+.img3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 200px;
+}
+
+span {
+    font-size: 2vw;
+}
+
+.coord {
+    float: left;
+    display: inline-block;
+    position: relative;
+    top: 3%;
+    left: 7%;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    padding: 2%;
+    margin: 1%;
+    text-align: center;
+}
+
+.ensemble {
+    background-color: orange;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    margin-right: 13%;
+    margin-left: 13%;
+    height: 320px;
+}
+.ensemble2 {
+    clear: none;
+    background-color: orange;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    margin-right: 13%;
+    margin-left:13%;
+    margin-top: 1%;
+    height: 10%;
+}
+
+
+h2 {
+    font-size: 3vw;
+    color: red;
+    text-align: center;
+    background-color: orange;
+    border: 2px solid rgb(233, 72, 21);
+    border-radius: 10px;
+    margin-right: 20%;
+    margin-left: 20%;
+}
+.exp {
+    display: inline-block;
+    font-size: 2vw;
+    text-align: left;
+}
+.dip {
+    display: inline-block;
+    font-size: 2vw;
+    text-align: left;
+}
+.comp {
+    display: inline-block;
+    font-size: 2vw;
+    text-align: left;
+}
+button {
+    float: left;
+    margin-left: 25%;
+    margin-top: 2%;
+}
+
+
